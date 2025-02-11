@@ -19,7 +19,7 @@ Se você quiser sugerir melhorias ou adicionar novos conteúdos, siga estes pass
 1. **Clone esse repositório** 
 2. **Crie uma branch** (`feature/nome-da-feature`).  
 3. **Adicione ou edite os arquivos** conforme necessário.  
-4. **Crie um Pull Request** para develop.  
+4. **Crie um Pull Request** para main.  
 
 Toda sugestão é bem-vinda! 🚀  
 
